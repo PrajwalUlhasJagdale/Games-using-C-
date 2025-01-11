@@ -1,4 +1,4 @@
-# Games-using-C- <img src="https://github.com/user-attachments/assets/58e98fdb-c29a-4ca3-9a64-36ffee6458a9" heigth=15px weidth=15px>
+# Games-using-C- <img src="https://github.com/user-attachments/assets/58e98fdb-c29a-4ca3-9a64-36ffee6458a9" heigth=10pxpx weidth=10px>
 ->This are the Games  made by using C++ programming language like
 <br>
 1)Hangman 
